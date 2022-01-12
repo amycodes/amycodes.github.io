@@ -1,9 +1,0 @@
----
-layout: post
-title:  "The best way to start..."
-date:   2022-01-07 11:02:14 -0600
-categories: update
-published: true
----
-
-First posts are first! Check out [https://amy-codes.com](https://amy-codes.com) which was just updated to include my talks on YouTube and Spotify.
