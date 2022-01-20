@@ -28,7 +28,7 @@ twitter_username: nerdypaws
 github_username:  amycodes
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
